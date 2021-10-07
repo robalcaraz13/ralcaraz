@@ -1,0 +1,47 @@
+---
+draft: true
+publishdate: '2021-10-08' 
+title: Nuestro nuevo espacio
+author: 'Roberto J. Alcaraz Molina'
+date: '2021-10-07'
+slug: []
+categories: []
+tags: []
+lastmod: '2021-10-07T12:47:37+02:00'
+keywords: []
+description: 'Mi primer post'
+comment: no
+toc: no
+autoCollapseToc: no
+postMetaInFooter: no
+hiddenFromHomePage: no
+contentCopyright: no
+reward: no
+mathjax: no
+mathjaxEnableSingleDollar: no
+mathjaxEnableAutoNumber: no
+hideHeaderAndFooter: no
+flowchartDiagrams:
+  enable: no
+  options: ''
+sequenceDiagrams:
+  enable: no
+  options: ''
+output:
+  bookdown::pdf_document2:
+    toc: false
+---
+
+
+¡Bienvenidos a todos! Esta será la primera entrada de mi `{blogdown}`, en la que analizaremos diferentes temas de matemáticas, estadística y ciencia de datos.
+
+Espero que estos post os sirvan para aprender, o simplemente para reflexionar acerca de los temas.
+
+https://gohugo.io/extras/shortcodes/
+
+```{r, echo=F}
+blogdown::shortcode("tweet", "1446065518008573954")
+```
+
+
+
